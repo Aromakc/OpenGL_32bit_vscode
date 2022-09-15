@@ -2,7 +2,4 @@
 
 Initial:
   ~ cd bin
-  ~ mingw32-make
-  
- Run:
-  ~ .\main.exe
+  ~ mingw32-make && main.exe
