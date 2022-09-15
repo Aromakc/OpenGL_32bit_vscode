@@ -3,3 +3,6 @@
 Initial:
   ~ cd bin
   ~ mingw32-make
+  
+ Run:
+  ~ .\main.exe
