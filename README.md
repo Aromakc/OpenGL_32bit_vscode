@@ -1,5 +1,3 @@
 # OpenGL_32bit_vscode
 
-Initial:
-  ~ cd bin
-  ~ mingw32-make && main.exe
+Run: mingw32-make 
