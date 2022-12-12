@@ -1,6 +1,6 @@
 all: compile link run clean
 compile:
-	g++ -I include -c src/main.cpp src/glad.c
+	g++ -I include -c src/flag.cpp src/glad.c
 link:
 	g++ *o -o bin/main -L lib -lglfw3dll
 run:
@@ -8,3 +8,5 @@ run:
 
 clean:
 	rm *o
+
+	
